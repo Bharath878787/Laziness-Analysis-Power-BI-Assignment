@@ -58,3 +58,26 @@ Screenshots of each dashboard page are included in the `/Screenshots` folder:
 - Several employees never missed deadlines, showing strong discipline.  
 - Social media usage correlates with higher laziness.  
 - Break time reduction lowers laziness index in simulations.
+
+##  Laziness Index Analytical Questions
+
+1. **Which department has the highest average laziness?**  
+   ✅ Sales Department has the highest average laziness.
+
+2. **Is WFH more associated with laziness?**  
+   ✅ WFH is slightly more associated with laziness, but the difference is marginal.
+
+3. **Does salary level impact productivity?**  
+   ✅ Yes. Low salary employees have a higher Laziness Index, while higher salary levels show slightly lower laziness, contributing to more productivity.
+
+4. **What is the relationship between social media usage and missed deadlines?**  
+   ✅ Social media usage hours generally impact missed deadlines. However, in this model, even employees who did not miss deadlines had high average social media usage hours.
+
+5. **Who are the top 5 most productive employees?**  
+   ✅ EMP130, EMP108, EMP003, EMP122, and EMP019 — they have high task completion and the lowest laziness index.
+
+6. **Is meeting attendance affecting task completion?**  
+   ✅ Employees with higher meeting attendance often show lower task completion. Excessive meetings reduce task completion efficiency.
+
+7. **Which department needs HR intervention?**  
+   ✅ Sales Department and HR Department need HR intervention because they show high laziness and missed deadlines.
