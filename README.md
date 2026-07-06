@@ -24,7 +24,7 @@ The dataset contains the following fields:
 - **Login_Hours** – Total login hours recorded  
 - **Productivity_Category** – Categorization (High Laziness / Moderate / Productive)
 
-## 📑 Dashboard Pages
+# Dashboard Pages
 
 - **Employee Productivity & Laziness Dashboard**  
   KPIs, departmental breakdown, work mode comparison, social media vs task completion scatter plot, productivity distribution pie chart, and Top 10 Lazy Employees table.
@@ -44,7 +44,7 @@ The dataset contains the following fields:
 - **Break Time Simulation**  
   What‑If parameter to test how reduced break time impacts laziness index.
 
-## 📷 Screenshots
+# Screenshots
 Screenshots of each dashboard page are included in the `/Screenshots` folder:  
 - Employee Productivity & Laziness Dashboard  
 - Employee Details  
@@ -52,14 +52,14 @@ Screenshots of each dashboard page are included in the `/Screenshots` folder:
 - Decomposition Tree  
 - Break Time Simulation  
 
-## 🔑 Insights
+# Insights
 - Marketing shows the highest laziness index.  
 - 15 employees achieved perfect completion.  
 - Several employees never missed deadlines, showing strong discipline.  
 - Social media usage correlates with higher laziness.  
 - Break time reduction lowers laziness index in simulations.
 
-##  Laziness Index Analytical Questions
+# Laziness Index Analytical Questions
 
 1. **Which department has the highest average laziness?**  
    ✅ Sales Department has the highest average laziness.
